@@ -1,6 +1,6 @@
-# 100 Days of Python Challenge
+# Introduction to Python
 
-Welcome to the 100 Days of Python Challenge! This repository is dedicated to tracking my progress and sharing the code I write over the next 100 days as I learn and improve my Python skills.
+This repository is dedicated to tracking my progress and sharing the code I write as I learn and improve my Python skills.
 
 ## Goals
 
